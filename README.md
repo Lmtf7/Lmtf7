@@ -4,8 +4,6 @@
 
 **CS student @ INSAT** 🇹🇳  
 
-### Daily weapons
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### Let’s connect
 - 📧 ahmedlaabar123@gmail.com
