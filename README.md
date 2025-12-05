@@ -1,16 +1,17 @@
-## Hi there 👋
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenR4cG9zZWQgd2l0aCBhIGJsdWUgZ2xvdyBmb3IgdGVjaC92aXN1YWxseSBzdHJpa2luZyBnaWYgb2YgY29kZS9haS9mdXR1cmlzbS5naWY.gif" width="350"/>
 
-<!--
-**Lmtf7/Lmtf7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Ahmed (Lmtf7) 👋
 
-Here are some ideas to get you started:
+**CS student @ INSAT** 🇹🇳  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Daily weapons
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### Let’s connect
+- 📧 ahmedlaabar123@gmail.com
+- 💼 [linkedin.com/in/ahmed-laabar-883446355](https://linkedin.com/in/ahmed-laabar-883446355)
+- 🐦 [@AhmedLaabar](https://twitter.com/AhmedLaabar)
+- 📸 [instagram.com/laabar.ahmed](https://instagram.com/laabar.ahmed)
+
+---
+<img src="https://komarev.com/ghpvc/?username=Lmtf7&color=dc143c&style=flat" />
