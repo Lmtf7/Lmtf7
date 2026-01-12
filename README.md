@@ -1,6 +1,6 @@
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenR4cG9zZWQgd2l0aCBhIGJsdWUgZ2xvdyBmb3IgdGVjaC92aXN1YWxseSBzdHJpa2luZyBnaWYgb2YgY29kZS9haS9mdXR1cmlzbS5naWY.gif" width="350"/>
 
-# Hey, I'm Ahmed (Lmtf7) 👋
+# Hey, I'm Ahmed  👋
 
 **CS student @ INSAT** 🇹🇳  
 
